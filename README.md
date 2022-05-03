@@ -2,10 +2,11 @@
 <h2 align="center">Android Software Engineer based in Cairo, Egypt.</h2>
 <h3 align="center">💬 Ask me about Android, Flutter and UI/UX Designs 💬</h3>
 
-<p align="center">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=dev7odaa&label=Profile%20views&color=0e75b6&style=flat" alt="dev7odaa" />
 
- <a href="https://twitter.com/dev7odaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev7odaa?logo=twitter&style=for-the-badge" alt="dev7odaa" /></a> </p>
+ <a href="https://twitter.com/dev7odaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev7odaa?logo=twitter&style=for-the-badge" alt="dev7odaa" /></a> </div> 
+ 
 - 🔭 I’m currently working as Android Engineer at [Spirit for Consultancy Service](http://spirit-co.com/)
 
 - 🌱 I’m currently learning Kotlin Multiplatform Mobile **(KMM)**
