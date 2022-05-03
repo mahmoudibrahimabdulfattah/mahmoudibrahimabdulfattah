@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7odaa&label=Profile%20views&color=0e75b6&style=flat" alt="dev7odaa" /> </p>
 
+<p align="left"> <a href="https://twitter.com/dev7odaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev7odaa?logo=twitter&style=for-the-badge" alt="dev7odaa" /></a> </p>
+
 - 🔭 I’m currently working as Android Engineer at [Spirit for Consultancy Service](http://spirit-co.com/)
 
 - 🌱 I’m currently learning Kotlin Multiplatform Mobile **(KMM)**
 
-- 📝 I regularly write on my LinkedIN [https://www.linkedin.com/in/dev7odaa](https://www.linkedin.com/in/dev7odaa)
+- 📝 I regularly write on my LinkedIn [@dev7odaa](https://www.linkedin.com/in/dev7odaa)
 
 - 💬 Ask me about **Android, Flutter and UI/UX Designs**
 
 - 📫 How to reach me: **mah.khalil22@gmail.com**
 
-- 📄 Show my Portfolio Website [https://dev7odaa.github.io/](https://dev7odaa.github.io/)
+- 📄 Show my Portfolio Website [dev7odaa.github.io/](https://dev7odaa.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
