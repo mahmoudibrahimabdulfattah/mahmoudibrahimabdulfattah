@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ibrahim</h1>
 <h2 align="center">Android Software Engineer based in Cairo, Egypt.</h2>
-<h3 align="center">💬 Ask me about **Android, Flutter and UI/UX Designs**</h3>
+<h3 align="center">💬 Ask me about Android, Flutter and UI/UX Designs 💬</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev7odaa&label=Profile%20views&color=0e75b6&style=flat" alt="dev7odaa" /> </p>
+<img align="center" src="https://komarev.com/ghpvc/?username=dev7odaa&label=Profile%20views&color=0e75b6&style=flat" alt="dev7odaa" />
 
 <p align="center"> <a href="https://twitter.com/dev7odaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev7odaa?logo=twitter&style=for-the-badge" alt="dev7odaa" /></a> </p>
 
