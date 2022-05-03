@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev7odaa" alt="dev7odaa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dev7odaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev7odaa?logo=twitter&style=for-the-badge" alt="dev7odaa" /></a> </p>
-
 - 🔭 I’m currently working as Android Engineer at [Spirit for Consultancy Service](http://spirit-co.com/)
 
 - 🌱 I’m currently learning Kotlin Multiplatform Mobile **(KMM)**
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev7odaa&show_icons=true&locale=en&layout=compact" alt="dev7odaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev7odaa&show_icons=true&locale=en" alt="dev7odaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev7odaa&" alt="dev7odaa" /></p>
