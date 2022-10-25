@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Ibrahim</h1>
-<h2 align="center">Android Software Engineer based in Cairo, Egypt.</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=9ED6F8&size=30&lines=Hey!+There;I'm+Mahmoud+Ibrahim...;I'm+Android+Software+Engineer...)](https://git.io/typing-svg)
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> </h2>
 <h3 align="center">💬 Ask me about Android, Flutter and UI/UX Designs 💬</h3>
 
 <p>
