@@ -2,6 +2,11 @@
 <h2 align="center">Android Software Engineer based in Cairo, Egypt.</h2>
 <h3 align="center">💬 Ask me about Android, Flutter and UI/UX Designs 💬</h3>
 
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</div>
+</p>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dev7odaa&label=Profile%20views&color=0e75b6&style=flat" alt="dev7odaa" />
 
