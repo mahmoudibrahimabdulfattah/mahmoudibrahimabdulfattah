@@ -10,7 +10,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dev7odaa&label=Profile%20views&color=0e75b6&style=flat" alt="dev7odaa" />
 
- <a href="https://twitter.com/dev7odaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev7odaa?logo=twitter&style=for-the-badge" alt="dev7odaa" /></a> </div> 
+ </div> 
  
 - 🔭 I’m currently working as Android Engineer at [Spirit for Consultancy Service](http://spirit-co.com/)
 
