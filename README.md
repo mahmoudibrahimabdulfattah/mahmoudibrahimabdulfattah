@@ -23,10 +23,10 @@
 - 📄 Show my Portfolio Website [dev7odaa.github.io/](https://dev7odaa.github.io/)
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev7odaa&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev7odaa&theme=chartreuse-dark" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=dev7odaa&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev7odaa&theme=chartreuse-dark" />
   
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev7odaa&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="dev7odaa" />
+  <img  width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev7odaa&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="dev7odaa" />
 </p> 
 
 <h3 align="left">Connect with me:</h3>
