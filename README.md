@@ -22,6 +22,11 @@
 
 - 📄 Show my Portfolio Website [dev7odaa.github.io/](https://dev7odaa.github.io/)
 
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mazenzekry&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenzekry&theme=chartreuse-dark" />
+</p> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dev7odaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev7odaa" height="30" width="40" /></a>
