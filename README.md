@@ -47,4 +47,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev7odaa&show_icons=true&locale=en&layout=compact" alt="dev7odaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev7odaa&show_icons=true&locale=en" alt="dev7odaa" /></p>
