@@ -20,7 +20,7 @@
 
  </div> 
  
-- 🔭 I’m currently working as Senior Android Engineer at [WE-Data](https://www.linkedin.com/company/te-data)
+- 🔭 I’m currently working as Senior Android Engineer at [WE-data](https://www.linkedin.com/company/te-data)
 
 - 🌱 I’m currently learning Kotlin Multiplatform Mobile **(KMM)**
 
