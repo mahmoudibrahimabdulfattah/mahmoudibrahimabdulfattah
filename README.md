@@ -20,7 +20,7 @@
 
  </div> 
  
-- 🔭 I’m currently working as Android Engineer at [Spirit for Consultancy Service](http://spirit-co.com/)
+- 🔭 I’m currently working as Senior Android Engineer at [We-Data](https://www.linkedin.com/company/te-data)
 
 - 🌱 I’m currently learning Kotlin Multiplatform Mobile **(KMM)**
 
