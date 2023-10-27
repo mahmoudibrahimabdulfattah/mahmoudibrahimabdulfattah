@@ -23,7 +23,7 @@
  
 - 🔭 I’m currently working as Senior Android Engineer at [WE-data](https://www.linkedin.com/company/te-data)
 
-- 🌱 I’m currently learning Kotlin Multiplatform Mobile **(KMM)**
+- 🌱 I’m currently learning iOS Development **(Swift)**
 
 - 📝 I regularly write on my LinkedIn [@dev7odaa](https://www.linkedin.com/in/dev7odaa)
 
