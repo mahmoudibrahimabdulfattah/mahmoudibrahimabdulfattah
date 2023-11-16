@@ -17,7 +17,7 @@
 </div>
 </p>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dev7odaa&label=Profile%20views&color=0e75b6&style=flat" alt="dev7odaa" />
+<img src="https://komarev.com/ghpvc/?username=mahmoudibrahimabdulfattah&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahimabdulfattah" />
 
  </div> 
  
@@ -25,23 +25,23 @@
 
 - 🌱 I’m currently learning iOS Development **(Swift)**
 
-- 📝 I regularly write on my LinkedIn [@dev7odaa](https://www.linkedin.com/in/dev7odaa)
+- 📝 I regularly write on my LinkedIn [@mahmoudibrahimabdulfattah](https://www.linkedin.com/in/mahmoudibrahimabdulfattah)
 
-- 📫 How to reach me: **mah.khalil22@gmail.com**
+- 📫 How to reach me: **mahmoudibrahimabdulfattah@gmail.com**
 
-- 📄 Show my Portfolio Website [dev7odaa.github.io/](https://dev7odaa.github.io/)
+- 📄 Show my Portfolio Website [mahmoudibrahimabdulfattah.github.io/](https://mahmoudibrahimabdulfattah.github.io/)
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev7odaa&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev7odaa&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahmoudibrahimabdulfattah&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudibrahimabdulfattah&theme=chartreuse-dark" />
   
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev7odaa&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="dev7odaa" />
+  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudibrahimabdulfattah&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="mahmoudibrahimabdulfattah" />
 </p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dev7odaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev7odaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev7odaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev7odaa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoudibrahimabdulfattah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudibrahimabdulfattah/" height="30" width="40" /></a>
 <a href="https://www.behance.net/dev7odaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dev7odaa" height="30" width="40" /></a>
 </p>
 
