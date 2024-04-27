@@ -31,12 +31,11 @@
 
 - 📄 Show my Portfolio Website [mahmoudibrahimabdulfattah.github.io/](https://mahmoudibrahimabdulfattah.github.io/)
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahmoudibrahimabdulfattah&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudibrahimabdulfattah&theme=chartreuse-dark" />
-  
-  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudibrahimabdulfattah&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="mahmoudibrahimabdulfattah" />
-</p> 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=mahmoudibrahimabdulfattah&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudibrahimabdulfattah&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudibrahimabdulfattah&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
