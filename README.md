@@ -1,56 +1,130 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=9ED6F8&size=30&lines=Hey!+There;I'm+Mahmoud+Ibrahim...;I'm+Mobile+Software+Engineer...)](https://git.io/typing-svg)
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" width="30px"> </h2>
-<h3 align="center">💬 Ask me about Android, iOS, and KMP 💬</h3>
+<div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F766E,50:14B8A6,100:5EEAD4&height=200&section=header&text=Mahmoud%20Ibrahim&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1"/>
+
+<!-- Typing Effect -->
+<a href="https://github.com/mahmoudibrahimabdulfattah">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Senior+Android+Engineer+%F0%9F%9A%80;5%2B+Years+Building+Scalable+Apps" alt="Typing SVG" />
+</a>
+
+<!-- Quick Stats -->
 <p>
-<div align="center">
- 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-  
- 
-  
- 
+  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-5%2B%20Years-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Compose-Specialist-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-Learning-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 </div>
-</p>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mahmoudibrahimabdulfattah&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudibrahimabdulfattah" />
 
- </div> 
- 
-- 🔭 I’m currently working as Senior Android Engineer at [WE-data](https://www.linkedin.com/company/te-data)
+## ⚡ Quick Overview
 
-- 🌱 I’m currently learning iOS Development **(Swift)**
+val mahmoud = AndroidEngineer(
+    currentRole = "Senior Android Engineer @ Telecom Egypt (WE) 🏢",
+    sideRole = "Senior Android Engineer @ iSpace Technology (Remote - Dubai) 🌍",
+    experience = "5+ years",
+    passion = "Building pixel-perfect, high-performance apps",
+    learning = "iOS Development with Swift 🍎"
+)<div align="center">
 
-- 📝 I regularly write on my LinkedIn [@mahmoudibrahimabdulfattah](https://www.linkedin.com/in/mahmoudibrahimabdulfattah)
+## 🛠️ Tech Stack
 
-- 📫 How to reach me: **mahmoudibrahimabdulfattah@gmail.com**
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/>
+  <br><strong>Kotlin</strong>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
+  <br><strong>Java</strong>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift"/>
+  <br><strong>Swift</strong>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android"/>
+  <br><strong>Android</strong>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+  <br><strong>Firebase</strong>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <br><strong>Git</strong>
+</td>
+<td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
+  <br><strong>Figma</strong>
+</td>
+</tr>
+</table>
 
-- 📄 Show my Portfolio Website [mahmoudibrahimabdulfattah.github.io/](https://mahmoudibrahimabdulfattah.github.io/)
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudibrahimabdulfattah&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mahmoudibrahimabdulfattah&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudibrahimabdulfattah&theme=default&hide_border=false)<br/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVVM%20%2F%20MVI-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Coroutines%20%2F%20Flow-7F52FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hilt%20%2F%20Dagger-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Module-1976D2?style=flat-square"/>
+<img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dev7odaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev7odaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoudibrahimabdulfattah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudibrahimabdulfattah/" height="30" width="40" /></a>
-<a href="https://www.behance.net/dev7odaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dev7odaa" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmoudibrahimabdulfattah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudibrahimabdulfattah&theme=tokyonight&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=FF6B6B&currStreakLabel=14B8A6"/>
+
+<br/>
+
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudibrahimabdulfattah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=ffffff"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudibrahimabdulfattah&theme=react-dark&hide_border=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=FF6B6B&area=true&area_color=14B8A6"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahmoudibrahimabdulfattah&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5"/>
+
+<br/><br/>
+
+## 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/mahmoudibrahimabdulfattah/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://mahmoudibrahimabdulfattah.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white"/>
+</a>
+<a href="mailto:mahmoudibrahimabdulfattah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://twitter.com/dev7odaa">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mahmoudibrahimabdulfattah&label=Profile%20Views&color=14B8A6&style=for-the-badge"/>
+
+<br/><br/>
+
+### 💬 Open for Android/iOS collaborations & opportunities!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:5EEAD4&height=120&section=footer"/>
+
+</div>
