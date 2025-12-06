@@ -8,17 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Senior+Android+Engineer+%F0%9F%9A%80;Building+Scalable+Apps+for+5%2B+Years" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Quick Stats -->
+<!-- Quick Stats with colored logos -->
 <p>
-  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-5%2B%20Years-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Compose-Specialist-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-Learning-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-5%2B%20Years-7F52FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=black"/>
+  <img src="https://img.shields.io/badge/Compose-Specialist-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4&labelColor=black"/>
+  <img src="https://img.shields.io/badge/iOS-Learning-white?style=for-the-badge&logo=apple&logoColor=white&labelColor=black"/>
 </p>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -27,11 +25,11 @@
 ## ⚡ Quick Overview
 
 val mahmoud = AndroidEngineer(
-    currentRole  = "Senior Android Engineer @ Telecom Egypt (WE) 🏢",
-    sideRole     = "Senior Android Engineer @ iSpace Technology (Remote - Dubai) 🌍",
-    experience   = "5+ years",
-    passion      = "Building pixel-perfect, high-performance apps",
-    learning     = "iOS Development with Swift 🍎"
+    currentRole = "Senior Android Engineer @ Telecom Egypt (WE) 🏢",
+    sideRole    = "Senior Android Engineer @ iSpace Technology (Dubai) 🌍",
+    experience  = "5+ years",
+    passion     = "Building pixel-perfect, high-performance apps",
+    learning    = "iOS Development with Swift 🍎"
 )<div align="center">
 
 ## 🛠️ Tech Stack
