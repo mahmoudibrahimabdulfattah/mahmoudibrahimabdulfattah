@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Senior+Android+Engineer+%F0%9F%9A%80;Building+Scalable+Apps+for+5%2B+Years" alt="Typing SVG" />
 </a>
 
+<br/>
+
 <!-- Quick Stats -->
 <p>
   <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -16,6 +18,8 @@
   <img src="https://img.shields.io/badge/iOS-Learning-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
@@ -23,11 +27,11 @@
 ## ⚡ Quick Overview
 
 val mahmoud = AndroidEngineer(
-    currentRole = "Senior Android Engineer @ Telecom Egypt (WE) 🏢",
-    sideRole = "Senior Android Engineer @ iSpace Technology (Remote - Dubai) 🌍",
-    experience = "5+ years",
-    passion = "Building pixel-perfect, high-performance apps",
-    learning = "iOS Development with Swift 🍎"
+    currentRole  = "Senior Android Engineer @ Telecom Egypt (WE) 🏢",
+    sideRole     = "Senior Android Engineer @ iSpace Technology (Remote - Dubai) 🌍",
+    experience   = "5+ years",
+    passion      = "Building pixel-perfect, high-performance apps",
+    learning     = "iOS Development with Swift 🍎"
 )<div align="center">
 
 ## 🛠️ Tech Stack
