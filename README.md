@@ -26,7 +26,6 @@
 
 val mahmoud = AndroidEngineer(
     currentRole = "Senior Android Engineer @ Telecom Egypt (WE) 🏢",
-    sideRole    = "Senior Android Engineer @ iSpace Technology (Dubai) 🌍",
     experience  = "5+ years",
     passion     = "Building pixel-perfect, high-performance apps",
     learning    = "iOS Development with Swift 🍎"
