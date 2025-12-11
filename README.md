@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Senior+Android+Engineer+%F0%9F%9A%80;Building+Scalable+Apps+for+5%2B+Years" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Quick Stats with colored logos -->
 <p>
