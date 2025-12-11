@@ -9,7 +9,7 @@
 </a>
 
 <!-- Spacer -->
-<img width="100%" height="20" src="https://user-images.githubusercontent.com/0/0.png"/>
+<img width="100%" height="30" src="https://user-images.githubusercontent.com/0/0.png"/>
 
 <!-- Quick Stats with colored logos -->
 <p>
