@@ -50,7 +50,7 @@ val mahmoud = MobileEngineer(
 <table>
 <tr>
 <td width="33%" align="center">
-  <h3>📱 Interactive CV — Compose Multiplatform</h3>
+  <h3>📱 Interactive CV — CMP</h3>
   <p>My CV as a real app running on <strong>Android, iOS, Desktop & Web</strong> from one Kotlin codebase — with dark mode, Arabic/RTL support, and live language switching.</p>
   <p>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
