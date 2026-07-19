@@ -1,21 +1,27 @@
 <div align="center">
 
 
+
 <!-- Animated Header -->
+
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F766E,50:14B8A6,100:5EEAD4&height=200&section=header&text=Mahmoud%20I.%20Khalil&fontSize=48&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1"/>
 
 
+
 <!-- Typing Effect -->
+
 
 <a href="https://github.com/mahmoudibrahimabdulfattah">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Senior+Mobile+Engineer+%F0%9F%9A%80;Native+Android+%26+Native+iOS+%E2%80%94+6%2B+Years" alt="Typing SVG" />
 </a>
 
 
+
  
 
 <!-- Quick Stats with colored logos -->
+
 
 <p>
   <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=black"/>
@@ -25,24 +31,28 @@
 </p>
 
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 
 </div>
 
 
+
 ⚡ Quick Overview
 
-val mahmoud = MobileEngineer(
-    currentRole = "Senior Mobile Engineer @ Telecom Egypt (WE) 🏢",
-    platforms   = listOf(Android, iOS),
-    experience  = "6+ years",
-    stack       = "Kotlin • Jetpack Compose • Swift • SwiftUI • KMP",
-    passion     = "Building pixel-perfect, high-performance apps for millions of users"
+val mahmoud = MobileEngineer( 
+currentRole = "Senior Mobile Engineer @ Telecom Egypt (WE) 🏢", 
+platforms   = listOf(Android, iOS), 
+experience  = "6+ years", 
+stack       = "Kotlin • Jetpack Compose • Swift • SwiftUI • KMP", 
+passion     = "Building pixel-perfect, high-performance apps for millions of users" 
 )
 
 
 <div align="center">
+
 
 
 🚀 Featured Projects
@@ -70,20 +80,22 @@ val mahmoud = MobileEngineer(
   <a href="https://github.com/mahmoudibrahimabdulfattah/MovieCatalogApp">Repo</a>
 </td>
 <td width="33%" align="center">
-  <h3>📰 News Shorts</h3>
-  <p>News app with modern scrolling UX for quick news consumption, built with Compose and MVI.</p>
+  <h3>📰 News Shorts CMP</h3>
+  <p>TikTok-style news reader on <strong>Android, iOS, Desktop & Web</strong> from one Kotlin codebase — offline-first, MVI, 12 languages.</p>
   <p>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square"/>
-    <img src="https://img.shields.io/badge/MVI-FF6F00?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square"/>
+    <img src="https://img.shields.io/badge/MVI%20%2B%20Koin-FF6F00?style=flat-square"/>
   </p>
-  <a href="https://github.com/mahmoudibrahimabdulfattah/NewsShorts">Repo</a>
+  <a href="https://github.com/mahmoudibrahimabdulfattah/NewsShortsCMP">Repo</a>
 </td>
 </tr>
 </table>
 
 
+
 <br/>
+
 
 
 🛠️ Tech Stack
@@ -126,7 +138,9 @@ val mahmoud = MobileEngineer(
 </table>
 
 
+
 <br/>
+
 
 
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
@@ -139,9 +153,11 @@ val mahmoud = MobileEngineer(
 <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
 
+
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 
 📊 GitHub Stats
@@ -149,12 +165,15 @@ val mahmoud = MobileEngineer(
 <img src="https://streak-stats.demolab.com/?user=mahmoudibrahimabdulfattah&theme=tokyonight&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=FF6B6B&currStreakLabel=14B8A6"/>
 
 
+
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudibrahimabdulfattah&theme=react-dark&hide_border=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=FF6B6B&area=true&area_color=14B8A6"/>
 
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 
 ## 🤝 Connect With Me
@@ -171,7 +190,9 @@ val mahmoud = MobileEngineer(
 <br/>
 
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:5EEAD4&height=120&section=footer"/>
+
 
 
 </div>
