@@ -18,11 +18,9 @@ I build production mobile apps across Android, iOS, and Kotlin Multiplatform. My
 |:--|:--|
 | [NewsShortsCMP](https://github.com/mahmoudibrahimabdulfattah/NewsShortsCMP) | Kotlin Multiplatform across Android, iOS, Desktop and Web from one codebase; Clean Architecture with MVI, Koin Multiplatform, Ktor client, offline-first caching, and a dedicated Ktor `:server` module. |
 | [Mahmoud-Ibrahim-CV](https://github.com/mahmoudibrahimabdulfattah/Mahmoud-Ibrahim-CV) | Compose Multiplatform on four targets with full Arabic and RTL, light and dark schemes, and platform-specific navigation. |
-| Store releases | Production delivery at consumer and enterprise scale — see the work table below. |
 
 > [!NOTE]
-> Client and employer work ships to Google Play but the source is closed. The two GitHub
-> repositories above are mine end to end and are the code to read.
+> Everything shipped for an employer or a client is closed source — the store links below are the only public trace of that work.
 
 ## Selected work
 
@@ -84,35 +82,36 @@ I build production mobile apps across Android, iOS, and Kotlin Multiplatform. My
 
 ## Shared KMP architecture
 
-Source layout of the [Interactive CV](https://github.com/mahmoudibrahimabdulfattah/Mahmoud-Ibrahim-CV) repository linked above:
+Module graph of [News Shorts](https://github.com/mahmoudibrahimabdulfattah/NewsShortsCMP):
 
 ```
-composeApp/src/
-├── commonMain/          # domain, data, presentation, theme — one source of truth
-│   └── com/mif/mahmoudcv/
-│       ├── domain/      # models
-│       ├── data/        # CvDataProvider, Strings, SettingsManager
-│       ├── presentation/# screens, components, navigation
-│       └── theme/       # colour roles, typography, light and dark schemes
-├── androidMain/         # Activity, system bars, dialer and intent actuals
-├── iosMain/             # UIViewController, system bars, UIApplication actuals
-├── jvmMain/             # desktop entry point
-├── jsMain/  wasmJsMain/ # web entry points
-└── commonTest/
+:composeApp                         # app shell — Android, iOS, Desktop, Web (JS + WASM)
+
+:feature:auth    :feature:feed      # six feature modules
+:feature:inbox   :feature:saved
+:feature:search  :feature:settings
+
+:core:domain     :core:data         # nine core modules
+:core:model      :core:contract
+:core:ui         :core:navigation
+:core:localization
+:core:config     :core:testing
+
+:server                             # Ktor backend serving the feed
+build-logic/convention              # Gradle convention plugins, included build
 ```
 
 ```mermaid
 graph TD
-    Server[":server · Ktor backend"] --> Client["Ktor client"]
-    Client --> Data["Repositories · offline-first cache"]
-    Data --> Domain["Domain · models and use cases"]
-    Domain --> Presentation["MVI presentation · shared ViewModels"]
-    Presentation --> Android["androidMain"]
-    Presentation --> IOS["iosMain"]
-    Presentation --> Desktop["jvmMain · Desktop"]
-    Presentation --> Web["jsMain / wasmJsMain"]
+    App[":composeApp · four platform targets"] --> Features["six :feature modules"]
+    Features --> Domain[":core:domain"]
+    Features --> UI[":core:ui · navigation · localization"]
+    Domain --> Data[":core:data · offline-first cache"]
+    Domain --> Contract[":core:contract · :core:model"]
+    Data --> Server[":server · Ktor backend"]
 ```
 
+- Seventeen Gradle modules with shared convention plugins and CI on GitHub Actions
 - Platforms: Android, iOS, Desktop (JVM), Web (JS + WASM)
 - Architecture: Clean Architecture, MVI, Koin Multiplatform, Ktor Client, Coroutines
 - Offline-first: Persistent local caching, background refresh, shared platform-agnostic ViewModels
