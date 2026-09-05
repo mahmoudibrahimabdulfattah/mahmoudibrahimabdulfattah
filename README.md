@@ -4,14 +4,9 @@
 
 I build production mobile apps across Android, iOS, and Kotlin Multiplatform. My work spans consumer products used by millions, enterprise tools inside a national telecom, and shared Kotlin codebases that ship to four platforms from one source set.
 
-![Android](https://img.shields.io/badge/Android-155EEF?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-155EEF?style=flat-square&logo=apple&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-155EEF?style=flat-square&logo=kotlin&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-6%2B%20years-155EEF?style=flat-square) ![Platforms](https://img.shields.io/badge/Platforms-Android%20%C2%B7%20iOS%20%C2%B7%20KMP-155EEF?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-10M%2B%20on%20WeightWatchers-155EEF?style=flat-square) ![Shipped](https://img.shields.io/badge/Shipped-7%2B%20apps%20to%20production-155EEF?style=flat-square)
 
-[![Email](https://img.shields.io/badge/Email-155EEF?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudibrahimabdulfattah@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-155EEF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) [![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=flat-square&logo=safari&logoColor=white)](https://mahmoudibrahimabdulfattah.github.io/) [![CV](https://img.shields.io/badge/CV-155EEF?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
-
-- **6+ years** professional experience
-- **Android · iOS · KMP** — cross-platform delivery
-- **10M+ downloads** — WeightWatchers on Google Play
-- **7+ apps** shipped to production
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudibrahimabdulfattah@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) [![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=flat-square&logo=safari&logoColor=white)](https://mahmoudibrahimabdulfattah.github.io/) [![CV](https://img.shields.io/badge/CV-344054?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
 
 ## Code to inspect
 
@@ -30,40 +25,24 @@ I build production mobile apps across Android, iOS, and Kotlin Multiplatform. My
     <td width="50%" valign="top">
       <h3><a href="https://play.google.com/store/apps/details?id=com.weightwatchers.mobile">WeightWatchers</a></h3>
       <p>Food, activity, and weight tracking used by millions worldwide.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-155EEF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Compose-155EEF?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
-        <img src="https://img.shields.io/badge/Multi--module-155EEF?style=flat-square" alt="Multi-module">
-      </p>
+      <p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose"> <img src="https://img.shields.io/badge/Multi--module-344054?style=flat-square" alt="Multi-module"></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://play.google.com/store/apps/details?id=com.ispace.sgs.app">SGS Super App</a></h3>
       <p>AI-enhanced employee self-service for Saudi Ground Services.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-155EEF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Compose-155EEF?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
-        <img src="https://img.shields.io/badge/AI%20SDK-155EEF?style=flat-square" alt="AI SDK">
-      </p>
+      <p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose"> <img src="https://img.shields.io/badge/AI%20SDK-344054?style=flat-square" alt="AI SDK"></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mahmoudibrahimabdulfattah/NewsShortsCMP">News Shorts</a></h3>
       <p>Kotlin Multiplatform news app with TikTok-style vertical browsing and offline-first architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/KMP-155EEF?style=flat-square&logo=kotlin&logoColor=white" alt="KMP">
-        <img src="https://img.shields.io/badge/Offline--first-155EEF?style=flat-square" alt="Offline-first">
-        <img src="https://img.shields.io/badge/Localization-155EEF?style=flat-square" alt="Localization">
-      </p>
+      <p><img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="KMP"> <img src="https://img.shields.io/badge/Offline--first-344054?style=flat-square" alt="Offline-first"> <img src="https://img.shields.io/badge/Localization-344054?style=flat-square" alt="Localization"></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://play.google.com/store/apps/details?id=com.ispace.mentorship.app">Smart Mentor</a></h3>
       <p>Mentorship platform with real-time chat, video sessions, and session booking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-155EEF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Compose-155EEF?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
-        <img src="https://img.shields.io/badge/Hilt-155EEF?style=flat-square" alt="Hilt">
-      </p>
+      <p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose"> <img src="https://img.shields.io/badge/Hilt-344054?style=flat-square" alt="Hilt"></p>
     </td>
   </tr>
 </table>
@@ -182,4 +161,4 @@ graph TD
 The portfolio site carries the same work with the delivery detail and an Arabic edition;
 the CV app is the Compose Multiplatform build of it, running on four targets.
 
-[![Email](https://img.shields.io/badge/Email-155EEF?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudibrahimabdulfattah@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-155EEF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) [![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=flat-square&logo=safari&logoColor=white)](https://mahmoudibrahimabdulfattah.github.io/) [![CV](https://img.shields.io/badge/CV-155EEF?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudibrahimabdulfattah@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) [![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=flat-square&logo=safari&logoColor=white)](https://mahmoudibrahimabdulfattah.github.io/) [![CV](https://img.shields.io/badge/CV-344054?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
