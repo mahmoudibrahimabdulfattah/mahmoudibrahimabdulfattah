@@ -6,11 +6,12 @@ I build production mobile apps across Android, iOS, and Kotlin Multiplatform. My
 
 ![Android](https://img.shields.io/badge/Android-155EEF?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-155EEF?style=flat-square&logo=apple&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-155EEF?style=flat-square&logo=kotlin&logoColor=white)
 
-[Email](mailto:mahmoudibrahimabdulfattah@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) · [Portfolio](https://mahmoudibrahimabdulfattah.github.io/) · [CV](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-155EEF?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudibrahimabdulfattah@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-155EEF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) [![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=flat-square&logo=safari&logoColor=white)](https://mahmoudibrahimabdulfattah.github.io/) [![CV](https://img.shields.io/badge/CV-155EEF?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
 
-| 6+ years | Android · iOS · KMP | 10M+ downloads | 7+ apps |
-|:--|:--|:--|:--|
-| Professional experience | Cross-platform delivery | WeightWatchers on Google Play | Shipped to production |
+- **6+ years** professional experience
+- **Android · iOS · KMP** — cross-platform delivery
+- **10M+ downloads** — WeightWatchers on Google Play
+- **7+ apps** shipped to production
 
 ## Code to inspect
 
@@ -181,4 +182,4 @@ graph TD
 The portfolio site carries the same work with the delivery detail and an Arabic edition;
 the CV app is the Compose Multiplatform build of it, running on four targets.
 
-[Email](mailto:mahmoudibrahimabdulfattah@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) · [Portfolio](https://mahmoudibrahimabdulfattah.github.io/) · [CV](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-155EEF?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudibrahimabdulfattah@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-155EEF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) [![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=flat-square&logo=safari&logoColor=white)](https://mahmoudibrahimabdulfattah.github.io/) [![CV](https://img.shields.io/badge/CV-155EEF?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
