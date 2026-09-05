@@ -1,157 +1,185 @@
-<div align="center">
+# Mahmoud I. Khalil
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F766E,50:14B8A6,100:5EEAD4&height=200&section=header&text=Mahmoud%20I.%20Khalil&fontSize=48&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1"/>
+**Senior Mobile Engineer — Android · iOS · Kotlin Multiplatform**
 
-<!-- Typing Effect -->
-<a href="https://github.com/mahmoudibrahimabdulfattah">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Senior+Mobile+Engineer+%F0%9F%9A%80;Native+Android+%26+Native+iOS+%E2%80%94+6%2B+Years" alt="Typing SVG" />
-</a>
+I build production mobile apps across Android, iOS, and Kotlin Multiplatform. My work spans consumer products used by millions, enterprise tools inside a national telecom, and shared Kotlin codebases that ship to four platforms from one source set.
 
-&nbsp;
+![Android](https://img.shields.io/badge/Android-155EEF?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-155EEF?style=flat-square&logo=apple&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-155EEF?style=flat-square&logo=kotlin&logoColor=white)
 
-<!-- Quick Stats with colored logos -->
-<p>
-  <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=black"/>
-  <img src="https://img.shields.io/badge/iOS-Swift%20%26%20SwiftUI-white?style=for-the-badge&logo=apple&logoColor=white&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Kotlin-6%2B%20Years-7F52FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=black"/>
-  <img src="https://img.shields.io/badge/Compose-Specialist-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4&labelColor=black"/>
-</p>
+[Email](mailto:mahmoudibrahimabdulfattah@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) · [Portfolio](https://mahmoudibrahimabdulfattah.github.io/) · [CV](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+| 6+ years | Android · iOS · KMP | 10M+ downloads | 7+ apps |
+|:--|:--|:--|:--|
+| Professional experience | Cross-platform delivery | WeightWatchers on Google Play | Shipped to production |
 
-</div>
+## Code to inspect
 
-## ⚡ Quick Overview
+| Inspect | What it shows |
+|:--|:--|
+| [NewsShortsCMP](https://github.com/mahmoudibrahimabdulfattah/NewsShortsCMP) | Kotlin Multiplatform across Android, iOS, Desktop and Web from one codebase; Clean Architecture with MVI, Koin Multiplatform, Ktor client, offline-first caching, and a dedicated Ktor `:server` module. |
+| [Mahmoud-Ibrahim-CV](https://github.com/mahmoudibrahimabdulfattah/Mahmoud-Ibrahim-CV) | Compose Multiplatform on four targets with full Arabic and RTL, light and dark schemes, and platform-specific navigation. |
+| Store releases | Production delivery at consumer and enterprise scale — see the work table below. |
 
-```kotlin
-val mahmoud = MobileEngineer(
-    currentRole = "Senior Mobile Engineer @ Telecom Egypt (WE) 🏢",
-    platforms   = listOf(Android, iOS),
-    experience  = "6+ years",
-    stack       = "Kotlin • Jetpack Compose • Swift • SwiftUI • KMP",
-    passion     = "Building pixel-perfect, high-performance apps for millions of users"
-)
+> [!NOTE]
+> Client and employer work ships to Google Play but the source is closed. The two GitHub
+> repositories above are mine end to end and are the code to read.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://play.google.com/store/apps/details?id=com.weightwatchers.mobile">WeightWatchers</a></h3>
+      <p>Food, activity, and weight tracking used by millions worldwide.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-155EEF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Compose-155EEF?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
+        <img src="https://img.shields.io/badge/Multi--module-155EEF?style=flat-square" alt="Multi-module">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://play.google.com/store/apps/details?id=com.ispace.sgs.app">SGS Super App</a></h3>
+      <p>AI-enhanced employee self-service for Saudi Ground Services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-155EEF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Compose-155EEF?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
+        <img src="https://img.shields.io/badge/AI%20SDK-155EEF?style=flat-square" alt="AI SDK">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mahmoudibrahimabdulfattah/NewsShortsCMP">News Shorts</a></h3>
+      <p>Kotlin Multiplatform news app with TikTok-style vertical browsing and offline-first architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/KMP-155EEF?style=flat-square&logo=kotlin&logoColor=white" alt="KMP">
+        <img src="https://img.shields.io/badge/Offline--first-155EEF?style=flat-square" alt="Offline-first">
+        <img src="https://img.shields.io/badge/Localization-155EEF?style=flat-square" alt="Localization">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://play.google.com/store/apps/details?id=com.ispace.mentorship.app">Smart Mentor</a></h3>
+      <p>Mentorship platform with real-time chat, video sessions, and session booking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-155EEF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Compose-155EEF?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
+        <img src="https://img.shields.io/badge/Hilt-155EEF?style=flat-square" alt="Hilt">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>Five more shipped projects</summary>
+
+| Product | What it demonstrates | Stack |
+|:--|:--|:--|
+| [WE Attend](https://play.google.com/store/apps/details?id=com.we.weAttend) | Attendance management for 2,000+ Telecom Egypt employees. | Kotlin, MVVM, Firebase |
+| [WE HR](https://play.google.com/store/apps/details?id=com.we.teamcare) | Employee self-service portal for HR requests and payslips. | Kotlin, MVVM, Firebase |
+| [Interactive CV](https://github.com/mahmoudibrahimabdulfattah/Mahmoud-Ibrahim-CV) | One Compose Multiplatform CV across four platforms, with Arabic and RTL. | KMP, Compose, i18n |
+| Mystery Shopper | Structured branch evaluations with offline-first capture and sync. | Kotlin, MVI, Room · Internal |
+| Data Cleansing | Field documentation of network cabinets for Telecom Egypt technicians. | Kotlin, MVI, Room · Internal |
+
+</details>
+
+## Shared KMP architecture
+
+Source layout of the [Interactive CV](https://github.com/mahmoudibrahimabdulfattah/Mahmoud-Ibrahim-CV) repository linked above:
+
+```
+composeApp/src/
+├── commonMain/          # domain, data, presentation, theme — one source of truth
+│   └── com/mif/mahmoudcv/
+│       ├── domain/      # models
+│       ├── data/        # CvDataProvider, Strings, SettingsManager
+│       ├── presentation/# screens, components, navigation
+│       └── theme/       # colour roles, typography, light and dark schemes
+├── androidMain/         # Activity, system bars, dialer and intent actuals
+├── iosMain/             # UIViewController, system bars, UIApplication actuals
+├── jvmMain/             # desktop entry point
+├── jsMain/  wasmJsMain/ # web entry points
+└── commonTest/
 ```
 
-<div align="center">
+```mermaid
+graph TD
+    Server[":server · Ktor backend"] --> Client["Ktor client"]
+    Client --> Data["Repositories · offline-first cache"]
+    Data --> Domain["Domain · models and use cases"]
+    Domain --> Presentation["MVI presentation · shared ViewModels"]
+    Presentation --> Android["androidMain"]
+    Presentation --> IOS["iosMain"]
+    Presentation --> Desktop["jvmMain · Desktop"]
+    Presentation --> Web["jsMain / wasmJsMain"]
+```
 
-## 🚀 Featured Projects
+- Platforms: Android, iOS, Desktop (JVM), Web (JS + WASM)
+- Architecture: Clean Architecture, MVI, Koin Multiplatform, Ktor Client, Coroutines
+- Offline-first: Persistent local caching, background refresh, shared platform-agnostic ViewModels
+- Localization: Full RTL support with Arabic and English UI
+- Backend: A dedicated Ktor `:server` module serving the feed
+- Startup: Reduced measured splash duration from roughly 1.2s to 450ms.
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-  <h3>📱 Interactive CV — CMP</h3>
-  <p>My CV as a real app running on <strong>Android, iOS, Desktop & Web</strong> from one Kotlin codebase, with dark mode, Arabic/RTL support, and live language switching.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square"/>
-    <img src="https://img.shields.io/badge/6%20Targets-0F766E?style=flat-square"/>
-  </p>
-  <a href="https://github.com/mahmoudibrahimabdulfattah/Mahmoud-Ibrahim-CV">Repo</a>
-</td>
-<td width="33%" align="center" valign="top">
-  <h3>🎬 Movie Catalog</h3>
-  <p>Modern Android app with Jetpack Compose, MVI, offline-first caching, and TikTok-style scrolling UX.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MVI-FF6F00?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square"/>
-  </p>
-  <a href="https://github.com/mahmoudibrahimabdulfattah/MovieCatalogApp">Repo</a>
-</td>
-<td width="33%" align="center" valign="top">
-  <h3>📰 News Shorts CMP</h3>
-  <p>TikTok-style news reader on <strong>Android, iOS, Desktop & Web</strong> from one Kotlin codebase: offline-first, MVI, 12 languages.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square"/>
-    <img src="https://img.shields.io/badge/MVI%20%2B%20Koin-FF6F00?style=flat-square"/>
-  </p>
-  <a href="https://github.com/mahmoudibrahimabdulfattah/NewsShortsCMP">Repo</a>
-</td>
-</tr>
-</table>
+## Engineering depth
 
-<br/>
+| Area | Contents |
+|:--|:--|
+| Mobile platforms | Kotlin, Jetpack Compose, Swift, SwiftUI, Java, and Compose Multiplatform. |
+| Architecture | Clean Architecture, MVI, MVVM, SOLID, multi-module systems, and dependency injection. |
+| Quality and delivery | Unit and UI testing, CI/CD, performance tuning, Crashlytics, code review, and mentoring. |
+| Integrations | REST APIs, offline-first data, Firebase, push notifications, maps, SAP WCF, and AI SDKs. |
 
-## 🛠️ Tech Stack
+## Production experience
 
-<table>
-<tr>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin"/>
-  <br><strong>Kotlin</strong>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android"/>
-  <br><strong>Android</strong>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift"/>
-  <br><strong>Swift</strong>
-</td>
-<td align="center" width="100">
-  <img src="https://cdn.simpleicons.org/apple/A2AAAD" width="48" height="48" alt="iOS"/>
-  <br><strong>iOS</strong>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
-  <br><strong>Java</strong>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
-  <br><strong>Firebase</strong>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-  <br><strong>Git</strong>
-</td>
-<td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/>
-  <br><strong>Figma</strong>
-</td>
-</tr>
-</table>
+| Period | Title | Company |
+|:--|:--|:--|
+| 05/2026 – Present | Senior Mobile Engineer (Android & iOS) | Telecom Egypt |
+| 08/2025 – 05/2026 | Senior Android Engineer | WeightWatchers |
+| 06/2024 – 08/2025 | Senior Android Engineer (Part-time) | iSpace Technology |
+| 01/2023 – 08/2025 | Senior Android Engineer | Telecom Egypt |
+| 12/2021 – 01/2023 | Android Engineer | Spirit for Consultancy Services |
 
-<br/>
+<details>
+<summary>Full accomplishment details</summary>
 
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/MVVM%20%2F%20MVI-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Coroutines%20%2F%20Flow-7F52FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hilt%20%2F%20Dagger-2196F3?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Module-1976D2?style=flat-square"/>
-<img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+### Senior Mobile Engineer (Android & iOS) · Telecom Egypt
 
-<br/><br/>
+- Moved to the iOS team in May 2026 after six years of Android work; build native iOS features in Swift and SwiftUI.
+- Ship features on both platforms: Kotlin and Jetpack Compose on Android, Swift and SwiftUI on iOS.
+- Keep architecture consistent across both codebases with Clean Architecture and MVVM/MVI.
+- Coordinate with product, backend, and QA to align features and releases across Android and iOS.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+### Senior Android Engineer · WeightWatchers
 
-## 📊 GitHub Stats
+- Built and maintained the official WeightWatchers app, a consumer product with 10M+ downloads used by millions worldwide.
+- Shipped new features and UI flows in Kotlin and Jetpack Compose for the food and activity tracking experience.
+- Collaborated with product, design, and backend teams on scalable food and activity tracking.
+- Worked within Clean Architecture and MVI/MVVM, adding unit and UI tests that brought the crash rate down.
 
-<img src="https://streak-stats.demolab.com/?user=mahmoudibrahimabdulfattah&theme=tokyonight&hide_border=true&background=0D1117&stroke=14B8A6&ring=14B8A6&fire=FF6B6B&currStreakLabel=14B8A6"/>
+### Senior Android Engineer (Part-time) · iSpace Technology
 
-<br/><br/>
+- Architected the SGS Super App and integrated conversational AI features through the Labiba SDK.
+- Led performance optimizations and third-party SDK integrations across multiple Android apps.
+- Applied multi-module Clean Architecture with Kotlin Flow, reducing bug recurrence by 25%.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudibrahimabdulfattah&theme=react-dark&hide_border=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=FF6B6B&area=true&area_color=14B8A6"/>
+### Senior Android Engineer · Telecom Egypt
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+- Led development of 5+ internal Android apps serving 2,000+ employees across field operations and HR.
+- Collaborated with cross-functional teams across product, backend, and QA, maintaining 95%+ sprint completion.
+- Architected scalable multi-module Clean Architecture, enabling 30% faster feature delivery.
+- Increased test coverage and reduced manual testing effort by 25%.
 
-## 🤝 Connect With Me
+### Android Engineer · Spirit for Consultancy Services
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=safari&logoColor=white)](https://mahmoudibrahimabdulfattah.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudibrahimabdulfattah@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev7odaa)
+- Shipped 3+ Android apps from concept to production.
+- Owned the Smart Sales app end to end, resolving critical bugs and improving user satisfaction.
+- Integrated apps with SAP systems through C# WCF for real-time cross-platform data sync.
 
-<br/><br/>
+</details>
 
-### 💬 Open for Mobile (Android & iOS) collaborations & opportunities!
+## Elsewhere
 
-<br/>
+The portfolio site carries the same work with the delivery detail and an Arabic edition;
+the CV app is the Compose Multiplatform build of it, running on four targets.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:5EEAD4&height=120&section=footer"/>
-
-</div>
+[Email](mailto:mahmoudibrahimabdulfattah@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahmoudibrahimabdulfattah/) · [Portfolio](https://mahmoudibrahimabdulfattah.github.io/) · [CV](https://drive.google.com/file/d/1USHmdcAgjljq444uuJswfn3VPDF88FA0/view?usp=drive_link)
